@@ -1,5 +1,5 @@
 # Personality & Career Discovery
-
+https://gu12934.github.io/Coaching_Gurm_Site/index.html
 A comprehensive static website featuring personality assessment resources, astrological insights, and career guidance services. Built with HTML, CSS, and JavaScript for easy deployment on GitHub Pages.
 
 ## 🌟 Features
